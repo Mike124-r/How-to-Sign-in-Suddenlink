@@ -1,4 +1,4 @@
-project = 'PeacocktvGuide12'
+project = 'How-to-Sign-in-Suddenlink'
 author = 'Your Name'
 release = '1.0'
 
